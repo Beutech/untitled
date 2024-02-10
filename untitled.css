@@ -1,0 +1,31 @@
+*{
+  
+    padding: 0;
+    margin: 0;
+    }
+    
+    .new {
+    color:white ;
+    font-size: 40px;
+    }
+    .first{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      width: 100vw;
+      height:100vh;
+      background-image:url('https://images.pexels.com/photos/17467001/pexels-photo-17467001/free-photo-of-striped-cushions-on-a-sofa-and-white-flip-flops-on-a-wooden-jetty.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+      
+    }
+    .pic{
+      width: 260px;
+      height: 260px;
+      border: 2px solid white;
+      border-radius: 260px;
+      object-fit: cover;
+    }
+    .aa{
+      padding:20px 20px 20px;
+      padding-bottom: 30px;
+    }
